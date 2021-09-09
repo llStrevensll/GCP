@@ -1,0 +1,18 @@
+Cloud Computing
+
+On-demand self-service
+Broad network access
+Resource pooling
+Rapid elasticty
+Measured service
+
+--
+*Physical/Colo
+User-configured, managed, and maintained
+
+*Virtualized
+User-configured
+Provider-managed and maintained
+
+*Serverless
+Fully automated
